@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1591369478 source:e:\projects\c\dspd2assignment3\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<limits.h>
-
